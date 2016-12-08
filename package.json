@@ -1,0 +1,26 @@
+{
+  "name": "cc-trade-practice",
+  "version": "1.0.0",
+  "description": "not use",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derori/cc-trade-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derori/cc-trade-practice/issues"
+  },
+  "homepage": "https://github.com/derori/cc-trade-practice#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "kraken-api": "^0.1.7",
+    "node-coincheck": "^0.2.1",
+    "poloniex-public-client": "^1.0.1",
+    "prettyjson": "^1.2.1",
+    "zaif.jp": "^0.1.10"
+  }
+}
